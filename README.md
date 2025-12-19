@@ -6,7 +6,7 @@
 
 Bu proje, merkezi kripto para borsaları (CEX) arasındaki fiyat verimsizliklerini (price inefficiencies) analiz ederek arbitraj fırsatlarını tespit eden gerçek zamanlı bir finansal analiz aracıdır.
 
-[[Canlı Demo Linki Buraya Gelecek] (Opsiyonel)](https://arbitragescanner.streamlit.app/)
+[Canlı Demo Linki](https://arbitragescanner.streamlit.app/)
 
 ---
 
