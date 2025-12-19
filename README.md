@@ -4,9 +4,9 @@
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 ![Finance](https://img.shields.io/badge/Domain-FinTech-green)
 
-Bu proje, **Finans Dersi Dönem Sonu Projesi** kapsamında geliştirilmiş, merkezi kripto para borsaları (CEX) arasındaki fiyat verimsizliklerini (price inefficiencies) analiz ederek arbitraj fırsatlarını tespit eden gerçek zamanlı bir finansal analiz aracıdır.
+Bu proje, merkezi kripto para borsaları (CEX) arasındaki fiyat verimsizliklerini (price inefficiencies) analiz ederek arbitraj fırsatlarını tespit eden gerçek zamanlı bir finansal analiz aracıdır.
 
-[Canlı Demo Linki Buraya Gelecek] (Opsiyonel)
+[[Canlı Demo Linki Buraya Gelecek] (Opsiyonel)](https://arbitragescanner.streamlit.app/)
 
 ---
 
